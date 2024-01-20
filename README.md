@@ -14,8 +14,9 @@ Hello there! 👋 I'm an ambitious final year computer science student at Sabanc
 
 - **Languages:** Proficient in C++, Java, JavaScript, Python, Dart, C#
 - **Frameworks/Libraries:** Experienced in Flutter, React, and Flask
-- **Databases:** Proficient in MongoDB
-- **Cloud Services:** Skilled in Firebase
+- **Databases:** Proficient in MongoDB and SQL
+- **Server-Side:** Skilled in PHP
+- **Cloud Services:** Skilled in Firebase and Google Cloud Platform
 
 ### 🛠️ Tech Stack
 
@@ -33,6 +34,6 @@ I am committed to staying ahead in the tech landscape. Continuously learning and
 
 I am actively seeking job opportunities and am excited about contributing to a dynamic and innovative team. If you're looking for someone with a passion for technology, a strong skill set, and a collaborative mindset, I'd love to connect!
 
-Feel free to reach out via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/). Let's discuss how I can bring value to your team.
+Feel free to reach out via [email](mailto:msafwan@sabanciuniv.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/safwanyasin/). Let's discuss how I can bring value to your team.
 
 Thank you for considering my profile! 🌟🚀
