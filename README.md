@@ -4,7 +4,7 @@ Hello there! 👋 I'm an ambitious final year computer science student at Sabanc
 
 ## 🔍 About Me
 
-- 🎓 Final year computer science student at Sabanci University.
+- 🎓 Computer Science Class of 2024 from Sabanci University.
 - 🚀 Enthusiastic about Computer Vision and its real-world applications.
 - 💡 Interests: Web and App Development, Machine Learning, Computer Vision, and Cybersecurity.
 
