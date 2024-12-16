@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm an ambitious computer science graduate from Sabanci University actively seeking new opportunities in the tech industry. My passion lies in leveraging cutting-edge technologies to build innovative solutions. Let me take you on a journey through my skills and experiences.
 
-[![wakatime](https://wakatime.com/badge/user/0a6c962d-0740-4317-aaeb-ba2c80c9c75a.svg)](https://wakatime.com/@0a6c962d-0740-4317-aaeb-ba2c80c9c75a)
+[![](https://wakatime.com/badge/user/0a6c962d-0740-4317-aaeb-ba2c80c9c75a.svg)](https://wakatime.com/@0a6c962d-0740-4317-aaeb-ba2c80c9c75a)
 
 ## 🔍 About Me
 
