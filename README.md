@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🚀
 
-Hello there! 👋 I'm an ambitious final year computer science student at Sabanci University actively seeking new opportunities in the tech industry. My passion lies in leveraging cutting-edge technologies to build innovative solutions. Let me take you on a journey through my skills and experiences.
+Hello there! 👋 I'm an ambitious computer science graduate from Sabanci University actively seeking new opportunities in the tech industry. My passion lies in leveraging cutting-edge technologies to build innovative solutions. Let me take you on a journey through my skills and experiences.
 
 ## 🔍 About Me
 
